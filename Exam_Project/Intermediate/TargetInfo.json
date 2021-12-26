@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Exam_Project",
+			"Path": "C:\\CANPLAY\\UNREAL_CPP_EXAM\\Exam_Project\\Source\\Exam_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Exam_ProjectEditor",
+			"Path": "C:\\CANPLAY\\UNREAL_CPP_EXAM\\Exam_Project\\Source\\Exam_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
