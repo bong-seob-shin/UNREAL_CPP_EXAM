@@ -154,7 +154,9 @@ DerivedDataCache/*
 
 *.vcxproj.filters
 
+#Assets
 
+*.uasset
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 
